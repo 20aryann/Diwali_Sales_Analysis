@@ -14,6 +14,8 @@ The goal is to uncover **actionable insights** about who buys the most and what 
 - Matplotlib
 - Seaborn
 
+---
+
 ## 💻 How to Run
 
 1. Clone the repo: git clone https://github.com/20aryann/Diwali_Sales_Analysis.git
@@ -24,6 +26,8 @@ The goal is to uncover **actionable insights** about who buys the most and what 
 
 4. Run: Diwali_Sales_Analysis.ipynb  step by step  
    (Graphs are interactive and descriptive)
+
+---
 
 ## 🔍 Project Highlights
 
@@ -38,4 +42,4 @@ The goal is to uncover **actionable insights** about who buys the most and what 
 ## 👤 Author
 
 **Aryan Daiya**  
-GitHub: [@20aryann](https://github.com/20aryann)
+GitHub: [20aryann](https://github.com/20aryann)
