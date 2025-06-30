@@ -20,11 +20,13 @@ The goal is to uncover **actionable insights** about who buys the most and what 
 
 1. Clone the repo : git clone https://github.com/20aryann/Diwali_Sales_Analysis.git
 
-2. Navigate to project folder : cd Diwali_Sales_Analysis
+2. Install required dependencies : pip install -r requirements.txt
 
-3. Open Jupyter Notebook : jupyter notebook
+3. Navigate to project folder : cd Diwali_Sales_Analysis
 
-4. Run : Diwali_Sales_Analysis.ipynb  step by step  
+4. Open Jupyter Notebook : jupyter notebook
+
+5. Run : Diwali_Sales_Analysis.ipynb  step by step  
    (Graphs are interactive and descriptive)
 
 ---
