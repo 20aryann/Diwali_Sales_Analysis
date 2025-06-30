@@ -44,6 +44,4 @@ The goal is to uncover **actionable insights** about who buys the most and what 
 **Aryan Daiya**  
 GitHub: [20aryann](https://github.com/20aryann)
 
-## Contact
 
-If you have questions, reach out via [20aryann](https://github.com/20aryann)
